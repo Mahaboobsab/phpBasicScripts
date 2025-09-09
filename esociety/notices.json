@@ -1,0 +1,7 @@
+{
+  "status": "success",
+  "notices": [
+    { "notice_id": "1", "title": "Water Supply Interruption", "date": "2025-09-09", "description": "Maintenance work from 10 AM to 2 PM." },
+    { "notice_id": "2", "title": "Annual General Meeting", "date": "2025-09-15", "description": "AGM scheduled at Community Hall, 5 PM." }
+  ]
+}
